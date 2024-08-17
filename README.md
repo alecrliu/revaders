@@ -23,8 +23,7 @@ Select a difficulty on the main menu. WASD to move, mouse to aim, space to fire.
 
 3. Any unexpected challenges?
 Lives, computer allied ships, multiple players, progressive difficulty, bosses, tracking missiles, lasers, enemy ship types, obstacles, dynamic background, upgrades, checkpoints, repairs, shields/hitpoints, weather, environmental effects, pause menu were on the list of possible additions.
-
-I added a total of 1 extra thing. And the other parts of it are janky. I still need the enemy ships to move without shaking (lerp), improve the ship controls, and make a ship's bullets stay after the ship disappears.
+However, I only added a total of 1 extra thing. And the other parts of it are janky. I still need the enemy ships to move without shaking (lerp), improve the ship controls, and make a ship's bullets stay after the ship disappears.
 Plus I realized there was a lot more to do: make the background better, fix the GUI, add more buttons, save more info, and display more ship statistics. All this would take time which I didn't have enough of because I decided to do this all in 10 hours (incredible planning ability, ik). See below for further ranting (I love complaining).
 There were also a slew of issues faced:
 - bullets and ArrayList errors
@@ -32,7 +31,7 @@ There were also a slew of issues faced:
 - classes and refactoring code because they didn't fit well in the classes, or inheritance wouldn't work, or it wouldn't be able to access an object's info
 - collisions made it so that a bullet 60 pixels away still blew up your ship
 - enemies were bullet resistant for some reason
-- the buttons weren't changing colors so I gave up
+- the buttons weren't changing colors
 
 4. Contributions?
 Alec worked on 89% of the project. The 11% credit goes to the blueberry lemonade that fueled Alec's coding.
