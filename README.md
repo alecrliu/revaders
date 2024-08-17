@@ -35,4 +35,5 @@ There were also a slew of issues faced:
 - the buttons weren't changing colors
 
 4. Contributions?
+
 Alec worked on 89% of the project. The 11% credit goes to the blueberry lemonade that fueled Alec's coding.
