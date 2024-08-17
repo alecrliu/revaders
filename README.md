@@ -1,4 +1,4 @@
-# Revaders
+# revaders
 A Space Invaders remake
 
 ## Instructions:
