@@ -22,6 +22,7 @@ Select a difficulty on the main menu. WASD to move, mouse to aim, space to fire.
 - Bullet is a class that creates and moves bullets shot from ships.
 
 3. Any unexpected challenges?
+
 Lives, computer allied ships, multiple players, progressive difficulty, bosses, tracking missiles, lasers, enemy ship types, obstacles, dynamic background, upgrades, checkpoints, repairs, shields/hitpoints, weather, environmental effects, pause menu were on the list of possible additions.
 However, I only added a total of 1 extra thing. And the other parts of it are janky. I still need the enemy ships to move without shaking (lerp), improve the ship controls, and make a ship's bullets stay after the ship disappears.
 Plus I realized there was a lot more to do: make the background better, fix the GUI, add more buttons, save more info, and display more ship statistics. All this would take time which I didn't have enough of because I decided to do this all in 10 hours (incredible planning ability, ik). See below for further ranting (I love complaining).
